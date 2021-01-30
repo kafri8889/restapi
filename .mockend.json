@@ -1,5 +1,6 @@
 {
   "Post": {
+    "ll": "string",
     "title": "string",
     "views": "int",
     "published": "boolean",
