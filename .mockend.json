@@ -1,5 +1,5 @@
 {
-  "Post": {
+  "Member": {
     "id": "int",
     "age": "int",
     "name": "string",
