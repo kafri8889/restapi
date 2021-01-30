@@ -1,9 +1,9 @@
 {
-  "Post": {
-    "ll": "string",
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date"
+  "Kpop": {
+    "id": 0,
+    "age": 0,
+    "name": "",
+    "group": "",
+    "imageUrl": "",
   }
 }
