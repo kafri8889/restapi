@@ -1,9 +1,9 @@
 {
   "posts": {
-    "id": "",
-    "age": "",
-    "name": "",
-    "group": "",
-    "imageUrl": "",
+    "id": "int",
+    "age": "int",
+    "name": "string",
+    "group": "string",
+    "imageUrl": "string",
   }
 }
