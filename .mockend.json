@@ -1,9 +1,8 @@
 {
   "Post": {
-    "id": "int",
-    "age": "int",
-    "name": "string",
-    "group": "string",
-    "imageUrl": "string",
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date"
   }
 }
