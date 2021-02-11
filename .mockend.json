@@ -1,5 +1,5 @@
 {
-  "post": {
+  "Post": {
     "id": "int",
     "image_byte": "string",
     "audio_byte": "string",
