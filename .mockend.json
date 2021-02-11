@@ -1,9 +1,12 @@
-{
-  "Member": {
-    "id": "int",
-    "age": "int",
-    "name": "string",
-    "group": "string",
-    "imageUrl": "string"
+[
+  {
+    "id": 0,
+    "image_byte": 0,
+    "audio_byte": 0,
+    "image_title": "Image Title 1",
+    "audio_title": "Audio Title 1",
+    "view_type": 0,
+    "title": "Example Title 1",
+    "description": "Example Description 1"
   }
-}
+]
