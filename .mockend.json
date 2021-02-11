@@ -1,6 +1,5 @@
 {
-  "member": [
-  {
+  "post": {
     "id": 0,
     "image_byte": 0,
     "audio_byte": 0,
@@ -10,5 +9,4 @@
     "title": "Example Title 1",
     "description": "Example Description 1"
   }
-  ]
 }
